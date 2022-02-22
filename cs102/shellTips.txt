@@ -1,0 +1,4 @@
+scp -r [from] [to where]
+	^ cmackin1@tesla9.eecs.utk.edu:
+					^/home/cmackin1/cs102/lab11
+	      ^ path on your local machine. `.`
